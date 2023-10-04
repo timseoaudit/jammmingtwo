@@ -1,5 +1,4 @@
 import React, { useCallback } from "react";
-
 import "./Track.css";
 
 const Track = ({ track, onAdd, onRemove, isRemoval }) => {
